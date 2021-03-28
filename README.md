@@ -7,7 +7,7 @@ A simple-torrent service ported for heroku by blacky
 
 
 ### Deploy
-<a href = "https://heroku.com/deploy?template=https://github.com/iTzBlack007/blacky-rent-WEB/tree/main"><img src="https://github.com/iTzBlack007/blacky-rent-WEB/blob/main/logo.png" alt="Have a good journey"></a>
+<a href = "https://heroku.com/deploy?template=https://github.com/noonegupta734/blacky-rent-WEB/tree/main"><img src="https://github.com/iTzBlack007/blacky-rent-WEB/blob/main/logo.png" alt="Have a good journey"></a>
 
 ### Credits
 
